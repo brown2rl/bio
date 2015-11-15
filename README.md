@@ -26,12 +26,7 @@ Running `grunt test` will run the unit tests with karma.
 ### Installation
 
 ```sh
-$ git clone [git-repo-url] dillinger
-$ cd dillinger
-$ npm i -d
-$ mkdir -p downloads/files/{md,html,pdf}
-$ gulp build --prod
-$ NODE_ENV=production node app
+$ git clone [this repo url]
 ```
 
 ### Development
